@@ -21,7 +21,7 @@ Here's what I use
 ├ **OS** Debian 12 \
 ├ **Window Manager** [sway](https://github.com/swaywm/sway) \
 ├ **Terminal Emulator** [kitty](https://github.com/kovidgoyal/kitty) \
-└ **Shell** bash \
+└ **Shell** bash
 
 
 ***UI*** \
@@ -29,11 +29,11 @@ Here's what I use
 ├ **Launcher** [wofi](https://hg.sr.ht/~scoopta/wofi) \
 ├ **Logout Menu** [wlogout](https://github.com/ArtsyMacaw/wlogout) \
 ├ **Screen Locker** [swaylock](https://github.com/swaywm/swaylock) \
-└ **Notification** [mako](https://github.com/emersion/mako) \
+└ **Notification** [mako](https://github.com/emersion/mako)
 
 ***Programs*** \
 ├ **Editor** [vim](https://github.com/vim/vim) \
 ├ **File manager** [ranger](https://github.com/ranger/ranger) \
 ├ **Fetch** [fastfetch](https://github.com/fastfetch-cli/fastfetch) \
 ├ **System Monitor** [btop](https://github.com/aristocratos/btop) \
-└ **Decorations** `cmatrix` `tty-clock` \
+└ **Decorations** `cmatrix` `tty-clock`
