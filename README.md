@@ -15,8 +15,6 @@ The color scheme I use is `Vacuous2` with `GoMono Nerd Font`
 | Cyan        | `#0b3452` | `#0f829d` | ![cyan](./.color-samples/0b3452.jpg)![cyan-br](./.color-samples/0f829d.jpg)     |
 
 ## Stuff
-Here's what I use
-
 ***System***
 + **OS** Debian 12
 + **Window Manager** [sway](https://github.com/swaywm/sway)
