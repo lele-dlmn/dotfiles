@@ -14,23 +14,25 @@ The color scheme I use is `Vacuous2` with `GoMono Nerd Font`
 | Purple      | `#2d2031` | `#87314e` | ![purple](./.color-samples/2d2031.jpg)![purple-br](./.color-samples/87314e.jpg) |
 | Cyan        | `#0b3452` | `#0f829d` | ![cyan](./.color-samples/0b3452.jpg)![cyan-br](./.color-samples/0f829d.jpg)     |
 
+
 ## Stuff
-***System***
-+ **OS** Debian 12
-+ **Window Manager** [sway](https://github.com/swaywm/sway)
-+ **Terminal Emulator** [kitty](https://github.com/kovidgoyal/kitty)
-+ **Shell** bash
+|  ***System***                                                        |  ***UI***                                                          |  ***Programs***                                          |
+| ---------------------------------------------------------------------| -------------------------------------------------------------------| ----------| 
+| + **OS** Debian 12                                                   | + **Bar** [waybar](https://github.com/Alexays/Waybar)              | + **Editor** [vim](https://github.com/vim/vim)                       |
+| + **Window Manager** [sway](https://github.com/swaywm/sway)          | + **Launcher** [wofi](https://hg.sr.ht/~scoopta/wofi)              | + **File manager** [ranger](https://github.com/ranger/ranger)    |
+| + **Terminal Emulator** [kitty](https://github.com/kovidgoyal/kitty) | + **Logout Menu** [wlogout](https://github.com/ArtsyMacaw/wlogout) | + **Fetch** [fastfetch](https://github.com/fastfetch-cli/fastfetch) |
+| + **Shell** bash                                                     | + **Screen Locker** [swaylock](https://github.com/swaywm/swaylock) | + **System Monitor** [btop](https://github.com/aristocratos/btop)  |
+| + **PS1** [starship](https://github.com/starship/starship)           | + **Notification** [mako](https://github.com/emersion/mako)        | + **Decorations** `cmatrix` `tty-clock`                   |
 
-***UI***
-+ **Bar** [waybar](https://github.com/Alexays/Waybar)
-+ **Launcher** [wofi](https://hg.sr.ht/~scoopta/wofi)
-+ **Logout Menu** [wlogout](https://github.com/ArtsyMacaw/wlogout)
-+ **Screen Locker** [swaylock](https://github.com/swaywm/swaylock)
-+ **Notification** [mako](https://github.com/emersion/mako)
 
-***Programs***
-+ **Editor** [vim](https://github.com/vim/vim)
-+ **File manager** [ranger](https://github.com/ranger/ranger)
-+ **Fetch** [fastfetch](https://github.com/fastfetch-cli/fastfetch)
-+ **System Monitor** [btop](https://github.com/aristocratos/btop)
-+ **Decorations** `cmatrix` `tty-clock`
+
+
+
+
+
+
+
+
+
+
+
