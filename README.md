@@ -17,22 +17,22 @@ The color scheme I use is `Vacuous2` with `GoMono Nerd Font`
 ## Stuff
 Here's what I use
 
-**System**
-┣ OS: Debian 12
-┣ Window Manager: [sway](https://github.com/swaywm/sway)
-┣ Terminal Emulator: [kitty](https://github.com/kovidgoyal/kitty)
-┗ Shell: bash
+***System***
+┣ **OS** Debian 12
+┣ **Window Manager** [sway](https://github.com/swaywm/sway)
+┣ **Terminal Emulator** [kitty](https://github.com/kovidgoyal/kitty)
+┗ **Shell** bash
 
-**UI**
+***UI***
 ┣ **Bar** [waybar](https://github.com/Alexays/Waybar)
 ┣ **Launcher** [wofi](https://hg.sr.ht/~scoopta/wofi)
 ┣ **Logout Menu** [wlogout](https://github.com/ArtsyMacaw/wlogout)
 ┣ **Screen Locker** [swaylock](https://github.com/swaywm/swaylock)
 ┗ **Notification** [mako](https://github.com/emersion/mako)
 
-**Programs**
-┣ **Editor:** [vim](https://github.com/vim/vim)
-┣ **File manager:** [ranger](https://github.com/ranger/ranger)
-┣ **Fetch:** [fastfetch](https://github.com/fastfetch-cli/fastfetch)
-┣ **System Monitor:** [btop](https://github.com/aristocratos/btop)
-┗ **Decorations:** `cmatrix` `tty-clock
+***Programs***
+┣ **Editor** [vim](https://github.com/vim/vim)
+┣ **File manager** [ranger](https://github.com/ranger/ranger)
+┣ **Fetch** [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+┣ **System Monitor** [btop](https://github.com/aristocratos/btop)
+┗ **Decorations** `cmatrix` `tty-clock
