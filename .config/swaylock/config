@@ -1,0 +1,33 @@
+
+image=$HOME/Pictures/.wallpapers/glasses.png
+scaling=fill
+#color=e2dccd
+
+font=GoMono Nerd Font
+font-size=25
+
+
+key-hl-color=#fae3a0
+separator-color=#101010
+text-color=#d2d5bc
+layout-text-color=#d2d5bc
+
+
+# Ring
+indicator-radius=100
+ring-color=#101010
+line-color=#101010
+inside-color=#202020
+
+# verified
+ring-ver-color=#81957c
+line-ver-color=#81957c
+inside-ver-color=#a7b79a
+
+# wrong
+ring-wrong-color=#b91e2e
+line-wrong-color=#b91e2e
+inside-wrong-color=#d14548
+
+
+

@@ -1,6 +1,6 @@
 # Dotfiles
 
-[screenshot1](./screenshots/1.png)
+![screenshot1](./screenshots/1.png)
 
 ## Theme
 The color scheme I use is `Vacuous2` with `GoMono Nerd Font`

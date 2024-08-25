@@ -1,0 +1,11 @@
+mode=drun
+prompt=Search...
+allow_images=false
+allow_markup=true
+term=kitty
+image_size=30
+insensitive=true
+parse_search=true
+no_actions=true
+columns=1
+hide_scroll=true

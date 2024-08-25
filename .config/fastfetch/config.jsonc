@@ -1,0 +1,101 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+  "type": "kitty",
+  "source": "/home/lele/.config/fastfetch/icon1.jpg",
+  "height": 12,
+    "padding": {
+      "left": 2
+    }
+  },
+  
+  "general": {
+    "playerName": "mpris"
+  },
+  
+  "display": {
+    // "separator": " » ",
+    "separator": "",
+    "color":"green", 
+    "key": { 
+      "width": 7
+    },
+    "size": {
+      "maxPrefix": "MB",
+      "ndigits": 1
+    },
+  "temp": {
+      "unit": "C"
+    },
+    "bar": {
+      "width": 11,
+      "border": false,
+      "charTotal": "-",
+      "charElapsed": "╸"
+    },
+    "percent": {
+      "type": 5
+    },
+    "noBuffer": true
+  },
+  
+  "modules": [
+    "break",
+    {
+      "type": "title",
+      "fqdn": false,
+      "color": {
+        "user": "blue",
+        "at": "default",
+        "host": "blue"
+      },
+      // "key": "User"
+      "key": "‎",
+      "keyWidth": 1
+    },
+    "break",
+    // {
+    //   "type": "separator",
+    //   "string": "─"
+    // },
+    {
+      "type": "os",
+      "format": "{2}",
+      "key": "os"
+    },
+    {
+      "type": "kernel",
+      // "format": "{2}"
+      "key": "krn"
+    },
+    {
+      "type": "host",
+      "format": "{1}",
+      "key": "hst"
+    },
+    {
+      "type": "shell",
+      "key": "sh"
+    },
+    {
+      "type": "wm",
+      "format": "{1}",
+      "key": "wm"
+    },
+    {
+      "type": "packages",
+      "format": "{}",
+      "key": "pkg"
+    },
+    {
+      "type": "uptime",
+      "key": "up",
+      "format": "{}s {2}h {3}m"
+    },
+    "break",
+    {
+      "type": "colors",
+      "symbol": "square"
+    }
+  ]
+}

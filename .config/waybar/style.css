@@ -1,0 +1,76 @@
+* {
+    /* `otf-font-awesome` is required to be installed for icons */
+    font-family: "GoMono Nerd Font";
+    font-size: 16px;
+}
+
+window#waybar {
+    border-top: 4px solid #d2c5bc;
+    background: #101010;
+    color: #d2c5bc;
+    outline: #d2c5bc;
+}
+
+
+#workspaces button.focused {
+    color: #fae3a0;
+
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+#workspaces button.urgent {
+    color: #b91e2e;
+}
+
+#workspaces button {
+    border-color: transparent;
+    box-shadow: none; 
+    background: none;
+    text-shadow: none;
+    color: #d2c5bc;
+    transition: all .45s cubic-bezier(0.2, 0, 0, 1);
+}
+
+
+#window,
+#workspaces,
+#clock,
+#battery,
+#memory,
+#network {
+    padding: 0 8px;
+    color: #d2c5bc;
+    background-color: transparent;
+    margin: 4px;
+}
+
+#window {
+    margin-left: 12px;
+}
+
+#clock {
+    margin-right: 12px;;
+}
+
+#battery.charging {
+    color: #81957c;
+}
+
+#battery.warning:not(.charging) {
+    color: #f9bb80;
+}
+
+#battery.critical:not(.charging) {
+    color: #b91e2e;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: steps(12);
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+
+#network.disconnected {
+    color: #b91e2e;
+}

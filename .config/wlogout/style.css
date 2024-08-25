@@ -1,0 +1,56 @@
+* {
+	background-image: none;
+	box-shadow: none;
+}
+window {
+	background-color: rgba(226,220,205,255);
+}
+
+button {
+	outline-style: none;
+    	color: #d2d5bc;
+	background-color: #101010;
+	
+	border-top: 220px solid transparent;
+	border-bottom: 220px solid transparent;
+	border-right: 20px solid transparent;
+	border-left: 20px solid transparent;
+	
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 25%;
+
+	font-family: "GoMono Nerd Font";
+	font-size: 13px;
+    	font-weight: bold;
+	
+	padding: 15px;
+}
+
+button:focus, button:active, button:hover {
+	outline-style: none;
+	background-color: #fae3a0;
+	color: #101010;
+	
+	font-family: "GoMono Nerd Font";
+	font-size: 13px;
+    	font-weight: bold;
+
+	padding: 15px;	
+}
+
+#lock {
+        background-image: image(url("icons/lock.png"));
+}
+
+#logout {
+        background-image: image(url("icons/logout.png"));
+}
+
+#shutdown {
+        background-image: image(url("icons/shutdown.png"));
+}
+
+#reboot {
+        background-image: image(url("icons/reboot.png"));
+}
