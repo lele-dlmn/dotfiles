@@ -26,9 +26,9 @@ The color scheme I use is `Vacuous2` with `GoMono Nerd Font`
 | **PS1** [starship](https://github.com/starship/starship)           | **Notification** [mako](https://github.com/emersion/mako)        | **Decorations** `cmatrix` `tty-clock`                   |
 
 ## Screenshots
-[screenshot2](./screenshots/3.png)
-[screenshot3](./screenshots/4.png)
-[screenshot4](./screenshots/5.png)
+![screenshot2](./screenshots/3.png)
+![screenshot3](./screenshots/4.png)
+![screenshot4](./screenshots/5.png)
 
 
 
