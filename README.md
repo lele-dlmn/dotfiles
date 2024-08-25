@@ -18,8 +18,8 @@ The color scheme I use is `Vacuous2` with `GoMono Nerd Font`
 Here's what I use
 
 ***System*** \
-├ **OS** Debian 12 \
-├ **Window Manager** [sway](https://github.com/swaywm/sway) \
+Ͱ **OS** Debian 12 \
+Ͱ **Window Manager** [sway](https://github.com/swaywm/sway) \
 ├ **Terminal Emulator** [kitty](https://github.com/kovidgoyal/kitty) \
 └ **Shell** bash
 
