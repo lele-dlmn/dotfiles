@@ -16,13 +16,13 @@ The color scheme I use is `Vacuous2` with `GoMono Nerd Font`
 
 
 ## Stuff
-|  ***System***                                                        |  ***UI***                                                          |  ***Programs***                                          |
+|   **System**                                                         |   **UI**                                                           |   **Programs**                                           |
 | ---------------------------------------------------------------------| -------------------------------------------------------------------| ----------| 
-| + **OS** Debian 12                                                   | + **Bar** [waybar](https://github.com/Alexays/Waybar)              | + **Editor** [vim](https://github.com/vim/vim)                       |
-| + **Window Manager** [sway](https://github.com/swaywm/sway)          | + **Launcher** [wofi](https://hg.sr.ht/~scoopta/wofi)              | + **File manager** [ranger](https://github.com/ranger/ranger)    |
-| + **Terminal Emulator** [kitty](https://github.com/kovidgoyal/kitty) | + **Logout Menu** [wlogout](https://github.com/ArtsyMacaw/wlogout) | + **Fetch** [fastfetch](https://github.com/fastfetch-cli/fastfetch) |
-| + **Shell** bash                                                     | + **Screen Locker** [swaylock](https://github.com/swaywm/swaylock) | + **System Monitor** [btop](https://github.com/aristocratos/btop)  |
-| + **PS1** [starship](https://github.com/starship/starship)           | + **Notification** [mako](https://github.com/emersion/mako)        | + **Decorations** `cmatrix` `tty-clock`                   |
+| **OS** Debian 12                                                   | **Bar** [waybar](https://github.com/Alexays/Waybar)              | **Editor** [vim](https://github.com/vim/vim)                       |
+| **Window Manager** [sway](https://github.com/swaywm/sway)          | **Launcher** [wofi](https://hg.sr.ht/~scoopta/wofi)              | **File manager** [ranger](https://github.com/ranger/ranger)    |
+| **Terminal Emulator** [kitty](https://github.com/kovidgoyal/kitty) | **Logout Menu** [wlogout](https://github.com/ArtsyMacaw/wlogout) | **Fetch** [fastfetch](https://github.com/fastfetch-cli/fastfetch) |
+| **Shell** bash                                                     | **Screen Locker** [swaylock](https://github.com/swaywm/swaylock) | **System Monitor** [btop](https://github.com/aristocratos/btop)  |
+| **PS1** [starship](https://github.com/starship/starship)           | **Notification** [mako](https://github.com/emersion/mako)        | **Decorations** `cmatrix` `tty-clock`                   |
 
 
 
