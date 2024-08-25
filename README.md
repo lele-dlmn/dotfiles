@@ -17,11 +17,11 @@ The color scheme I use is `Vacuous2` with `GoMono Nerd Font`
 ## Stuff
 Here's what I use
 
-***System*** \n
-┣ **OS** Debian 12 \n
-┣ **Window Manager** [sway](https://github.com/swaywm/sway) \n
-┣ **Terminal Emulator** [kitty](https://github.com/kovidgoyal/kitty) \n
-┗ **Shell** bash \n
+***System*** \
+┣ **OS** Debian 12 \
+┣ **Window Manager** [sway](https://github.com/swaywm/sway) \
+┣ **Terminal Emulator** [kitty](https://github.com/kovidgoyal/kitty) \
+┗ **Shell** bash\
 
 ***UI***
 ┣ **Bar** [waybar](https://github.com/Alexays/Waybar)
