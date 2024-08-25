@@ -1,5 +1,7 @@
 # Dotfiles
 
+[screenshot1](./screenshots/1.png)
+
 ## Theme
 The color scheme I use is `Vacuous2` with `GoMono Nerd Font`
 
@@ -14,7 +16,6 @@ The color scheme I use is `Vacuous2` with `GoMono Nerd Font`
 | Purple      | `#2d2031` | `#87314e` | ![purple](./.color-samples/2d2031.jpg)![purple-br](./.color-samples/87314e.jpg) |
 | Cyan        | `#0b3452` | `#0f829d` | ![cyan](./.color-samples/0b3452.jpg)![cyan-br](./.color-samples/0f829d.jpg)     |
 
-
 ## Stuff
 |   **System**                                                         |   **UI**                                                           |   **Programs**                                           |
 | ---------------------------------------------------------------------| -------------------------------------------------------------------| ----------| 
@@ -24,7 +25,10 @@ The color scheme I use is `Vacuous2` with `GoMono Nerd Font`
 | **Shell** bash                                                     | **Screen Locker** [swaylock](https://github.com/swaywm/swaylock) | **System Monitor** [btop](https://github.com/aristocratos/btop)  |
 | **PS1** [starship](https://github.com/starship/starship)           | **Notification** [mako](https://github.com/emersion/mako)        | **Decorations** `cmatrix` `tty-clock`                   |
 
-
+## Screenshots
+[screenshot2](./screenshots/3.png)
+[screenshot3](./screenshots/4.png)
+[screenshot4](./screenshots/5.png)
 
 
 
